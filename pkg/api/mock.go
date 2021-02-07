@@ -18,7 +18,7 @@ func NewMockServer() *Server {
 		HttpClientTimeout:         30 * time.Second,
 		UIColor:                   "blue",
 		UIPath:                    ".ui",
-		UIMessage:                 "Salutations",
+		UIMessage:                 "Salutations (depuis Paris)",
 		Hostname:                  "localhost",
 	}
 
